@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             cos a
                 Cos B
                     Cos c
+                        Cos D
                 Console.ReadLine();
         }
     }
